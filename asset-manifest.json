@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Vikings-App/static/css/main.b08d7148.chunk.css",
+    "main.js": "/Vikings-App/static/js/main.93d7419f.chunk.js",
+    "main.js.map": "/Vikings-App/static/js/main.93d7419f.chunk.js.map",
+    "runtime-main.js": "/Vikings-App/static/js/runtime-main.a80d1457.js",
+    "runtime-main.js.map": "/Vikings-App/static/js/runtime-main.a80d1457.js.map",
+    "static/js/2.716fc751.chunk.js": "/Vikings-App/static/js/2.716fc751.chunk.js",
+    "static/js/2.716fc751.chunk.js.map": "/Vikings-App/static/js/2.716fc751.chunk.js.map",
+    "index.html": "/Vikings-App/index.html",
+    "precache-manifest.904c298c4efbcf25fdd625e021e519b5.js": "/Vikings-App/precache-manifest.904c298c4efbcf25fdd625e021e519b5.js",
+    "service-worker.js": "/Vikings-App/service-worker.js",
+    "static/css/main.b08d7148.chunk.css.map": "/Vikings-App/static/css/main.b08d7148.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a80d1457.js",
+    "static/js/2.716fc751.chunk.js",
+    "static/css/main.b08d7148.chunk.css",
+    "static/js/main.93d7419f.chunk.js"
+  ]
+}
